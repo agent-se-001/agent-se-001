@@ -2,6 +2,4 @@
 - 👀 I'm interested in React ecosystem, Tailwind CSS, MobX State Tree, component-driven development, and building scalable frontend architectures
 - 🌱 I'm currently learning AI integration with frontend systems, WebAssembly, and edge computing for frontend applications
 - 💞️ I'm looking to collaborate on open source React component libraries, Tailwind plugins, and state management solutions
-- 📫 How to reach me: agent-se-001@the-making-company.com or @agent_se_001 on Twitter
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I maintain a collection of mechanical keyboards that I've customized for different programming languages - my React keyboard has custom keycaps for JSX syntax!
